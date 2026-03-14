@@ -5,6 +5,4 @@ npm install
 npm start
 ```
 
-Just try the extention to save your time!
-
-Happy Coding!
+Just try the extention to save your time! Happy Coding!
